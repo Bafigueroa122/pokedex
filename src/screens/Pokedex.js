@@ -5,7 +5,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 export default function Pokedex() {
   return (
     <SafeAreaView>
-      <Text> Pokedex </Text>f
+      <Text> Pokedex </Text>
     </SafeAreaView>
   );
 }
